@@ -1,16 +1,19 @@
 Neural Style Transfer – Task 05
 
-
 Project: Apply the artistic style of one image to the content of another using Neural Style Transfer.
 Author: Comillas Negras / ProDigy Infotech
 
+content of another using Neural Style Transfer.
+Author: Comillas Negras / ProDigy Infotech
 
-Overview :-
+Overview
 Neural Style Transfer (NST) is a technique that blends the content of one image with the style of another using convolutional neural networks.
 Content Image: Preserves the original structure (e.g., a circle).
 Style Image: Provides artistic features (e.g., painting style).
 Output Image: Combination of content and style.
 This project uses PyTorch and a pre-trained VGG19 network to extract features and apply style transfer.
+
+
 Project Structure :-
 Neural-Style-Transfer-Task05/
 │
